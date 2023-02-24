@@ -4,7 +4,7 @@ It’s been two weeks since you were hired as a new data engineer at Pewlett Hac
 
 For this project, you’ll design the tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data. That is, you’ll perform data modeling, data engineering, and data analysis, respectively.
 
-Below is an analysis of the data. The script, data modeling and data can be found in the sql-analysis folder. 
+Below is an analysis of the data. The file of the table schemata, queries and image file of the ERD can be found in the sql-analysis folder. 
 
 ## List the employee number, last name, first name, sex, and salary of each employee.
 ![image](https://user-images.githubusercontent.com/119654958/221103662-00236b20-e6ca-4c0d-990d-90d3b56c979d.png)
